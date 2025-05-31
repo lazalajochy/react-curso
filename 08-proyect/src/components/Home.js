@@ -7,7 +7,6 @@ export const Home = () => {
             <h1>
                 I'm a Full Stack <strong>Software Developer</strong> experienced in building web and mobile apps.
                 I work with Node.js, Express, React, React Native, and PostgreSQL to create scalable solutions.
-                I build APIs, manage databases, and deliver clean, user-focused interfaces.
             </h1>
             <h2>
                 I'm proficient in JavaScript/TypeScript, Node.js, Express, React/React Native,
